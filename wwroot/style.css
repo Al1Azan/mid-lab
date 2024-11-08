@@ -1,0 +1,34 @@
+:root {
+    --darkMain: #1B2431;
+    --secondary: #92A1B2;
+    --color1: #F4F4F4;
+    --color2: blue;
+}
+
+h2 {
+    font-size: 65px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 2vh;
+    color: black;
+}
+.para2{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    color: black;
+}
+.card{
+    text-align: start;
+    border-radius: 10px;
+}
+h5.card-title{
+    font-size: 16px;
+    font-weight: 600;
+}
+.card-text{
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: start;
+}
